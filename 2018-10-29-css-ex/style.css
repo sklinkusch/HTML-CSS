@@ -1,0 +1,64 @@
+div {
+  background-color: green;
+  color: greenyellow;
+}
+div a {
+  color: red;
+}
+div a:hover {
+  color: whitesmoke;
+}
+
+header {
+  padding: 20px;
+  font-size: 2.0em;
+}
+
+#forkme_banner {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#project_title {
+  color: black;
+  background-color: white;
+  font-weight: normal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#project_tagline {
+  color: yellow;
+  background-color: black;
+}
+
+#project_tagline a {
+  color: blue;
+  text-decoration: none;
+}
+
+.zip_download_link, .tar_download_link {
+  font-weight: bold;
+  color: black;
+  background-color: red;
+  text-decoration: none;
+}
+
+.outer, .inner {
+  color: fuchsia !important;
+}
+
+#footer_wrap {
+  color: honeydew;
+}
+
+a[href*="github"] {
+  color: white;
+  background-color: grey;
+  text-decoration: none;
+}
+
+a[href*="github"]:hover {
+  color: black;
+  background-color: darkolivegreen;
+  font-weight: bold;
+}
