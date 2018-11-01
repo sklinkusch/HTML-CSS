@@ -3,12 +3,6 @@ body {
   padding: 0;
 }
 
-
-.height {
-  line-height: 1.5em;
-}
-
-
 .halfwidth {
   max-width: 280px;
   width: 50%;
