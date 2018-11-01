@@ -70,3 +70,7 @@ p, span {
   margin-left: 2em;
   margin-right: 2em;
 }
+
+.none p {
+  display: none;
+}
