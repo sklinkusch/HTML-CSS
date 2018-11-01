@@ -1,0 +1,11 @@
+.copyright {
+  float: left;
+}
+
+.tidy {
+  float: right;
+}
+
+.clearfix {
+  clear: both;
+}

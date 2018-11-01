@@ -17,17 +17,6 @@ body {
   line-height: 1.5em;
 }
 
-.copyright {
-  float: left;
-}
-
-.tidy {
-  float: right;
-}
-
-.clearfix {
-  clear: both;
-}
 
 .halfwidth {
   max-width: 280px;
