@@ -1,0 +1,31 @@
+.underline {
+  text-decoration: underline;
+}
+
+.strikeout {
+  text-decoration: line-through;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
