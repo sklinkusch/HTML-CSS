@@ -1,0 +1,9 @@
+.indented p {
+  text-indent: 1em;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.indented p:first-of-type {
+  text-indent: 0;
+}
