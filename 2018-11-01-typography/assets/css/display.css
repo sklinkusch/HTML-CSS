@@ -1,0 +1,7 @@
+.none p {
+  display: none;
+}
+
+.hidden p {
+  visibility: hidden;
+}

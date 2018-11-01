@@ -25,10 +25,3 @@ body {
   margin-right: 2em;
 }
 
-.none p {
-  display: none;
-}
-
-.hidden p {
-  visibility: hidden;
-}
