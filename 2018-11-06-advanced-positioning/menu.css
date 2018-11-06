@@ -29,3 +29,20 @@ header {
   padding: 50px;
   background: #d6e9fe;
 }
+
+.menu {
+  margin-top: 15px;
+}
+
+.menu > li {
+  display: inline;
+  margin-right: 50px;
+}
+
+.menu > li:last-of-type {
+  margin-right: 0;
+}
+
+.logo img {
+  width: 20%;
+}
