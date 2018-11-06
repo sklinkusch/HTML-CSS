@@ -47,16 +47,20 @@ header {
   width: 20%;
 }
 
-.features-menu {
+.dropdown:hover .features-menu {
   display: flex;
   flex-direction: column;
   background: #b2d6ff;
-  border-radius: 5px;
+  /* border-radius: 5px;
   padding-top: 60px;
   position: absolute;
   top: -25px;
   left: -30px;
-  z-index: 1;
+  z-index: 1; */
+}
+
+.features-menu {
+  display: none;
 }
 
 .features-menu li {
