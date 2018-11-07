@@ -4,3 +4,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  margin-left: 20px;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+.box-1 {
+  float: left;
+  width: 48%;
+}
+
+.box-2 {
+  float: right;
+  width: 48%;
+  height: 80vh;
+  background: url(../images/beach.jpg);
+}
