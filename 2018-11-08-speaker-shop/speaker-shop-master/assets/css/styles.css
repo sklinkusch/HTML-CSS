@@ -54,6 +54,11 @@ header {
 .clearfix {
   clear: both;
 }
+
+main {
+  height: 75vh;
+}
+
 .speaker {
   height: 1.5em;
 }
@@ -98,4 +103,8 @@ header {
   background-size: cover;
   top: 0;
   right: 0;
+}
+
+footer {
+  text-align: center;
 }
