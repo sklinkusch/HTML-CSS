@@ -85,6 +85,8 @@ main {
 
 .play {
   height: 1.0em;
+  position: relative;
+  top: 3px;
 }
 
 .images {
