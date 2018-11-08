@@ -108,6 +108,7 @@ main {
 .onimage {
   color: white;
   text-decoration: none;
+  text-shadow: #000 4px 4px 8px;
   font-size: 16pt;
   position: relative;
   top: 60px;
@@ -115,7 +116,8 @@ main {
 }
 
 .onimage:hover {
-  color: yellow;
+  color: antiquewhite;
+  text-shadow: #000 6px 6px 6px;
 }
 
 .link-container {
