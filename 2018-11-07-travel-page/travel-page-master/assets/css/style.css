@@ -25,6 +25,11 @@ body {
 }
 
 /* Setting the two boxes */
+.box {
+  width: 48%;
+  height: 80vh;
+}
+
 .box-1 {
   margin: 20px 0 0 20px;
   float: left;
@@ -33,8 +38,6 @@ body {
 
 .box-2 {
   float: right;
-  width: 48%;
-  height: 80vh;
   background: url(../images/beach.jpg);
   background-position: center center;
   background-size: cover;
