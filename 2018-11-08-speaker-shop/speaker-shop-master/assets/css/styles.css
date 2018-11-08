@@ -105,6 +105,19 @@ main {
   right: 0;
 }
 
+.onimage {
+  color: white;
+  text-decoration: none;
+  font-size: 16pt;
+  position: relative;
+  top: 60px;
+  left: 30px;
+}
+
+.onimage:hover {
+  color: yellow;
+}
+
 footer {
   text-align: center;
 }
