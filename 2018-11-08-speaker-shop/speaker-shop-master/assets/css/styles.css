@@ -19,45 +19,62 @@
        url('../fonts/work-sans-v3-latin-regular.svg#WorkSans') format('svg'); /* Legacy iOS */
 }
 
+/* Settings for the whole body */
 body {
   font-family: 'Work Sans';
   background-color: rgb(136,136,136);
 }
 
+/* Settings for the main white sheet in the middle */
 .container {
   background-color: white;
   width: 947px;
   margin: 20px auto;
 }
 
+/* Header containing the logo, the name of the store, and the links */
 header {
   padding: 10px 20px 40px 20px;
 }
 
+/* Left side of the header containing the logo and the name of the store */
 .header-left {
   float: left;
   position: relative;
 }
 
+/* List items in the left side of the header */
 .header-left li {
   display: inline-block;
   padding: 20px;
 }
 
+/* Logo of the store */
 .speaker {
   height: 1.5em;
+  position: relative;
+  top: 4px;
 }
 
-.header-right li {
-  display: inline-block;
+/* Name of the store */
+.store-name {
+  font-size: 1.5em;
+  font-weight: bold;
 }
 
+/* Right side of the header containing the links */
 .header-right {
   float: right;
   position: relative;
   top: 30px;
 }
 
+/* Put links in one line */
+.header-right li {
+  display: inline-block;
+}
+
+/* Styling for the links */
 .header-right a {
   color: black;
   text-decoration: none;
@@ -65,27 +82,33 @@ header {
   margin: 10px;
 }
 
+/* Clear floats after the header */
 .clearfix {
   clear: both;
 }
 
+/* Main part */
 main {
   height: 750px;
 }
 
+/* Part containing the title, a catchy slogan, and the video link */
 .description {
   margin: 40px 20px 20px 20px;
 }
 
+/* Title */
 .description h1 {
   margin-bottom: 30px;
 }
 
+/* Paragraph containing the video button */
 .watch {
   margin-top: 50px;
   text-align: right;
 }
 
+/* Video link */
 .video {
   background-color: black;
   padding: 5px;
@@ -94,24 +117,28 @@ main {
   text-transform: uppercase;
 }
 
+/* Play sign in the video link */
 .play {
   height: 1.0em;
   position: relative;
   top: 3px;
 }
 
+/* Part with the three images */
 .images {
   position: relative;
   height: 462px;
   width: 100%;
 }
 
+/* Settings for all images */
 .image {
   width: 303.03px;
   height: 462px;
   position: absolute;
 }
 
+/* Settings for the respective images */
 .left {
   background-image: url(../images/white-box.jpg);
   background-position: center center;
@@ -136,6 +163,12 @@ main {
   left: 644px;
 }
 
+/* Container for the link text on the images */
+.link-container {
+  height: 80px;
+}
+
+/* Link text on the images */
 .onimage {
   color: white;
   text-decoration: none;
@@ -151,9 +184,7 @@ main {
   text-shadow: #000 6px 6px 6px;
 }
 
-.link-container {
-  height: 80px;
-}
+/* Arrow sign on the images */
 .open {
   width: 40px;
   background-color: white;
@@ -169,6 +200,7 @@ main {
   border: 8px rgba(136,136,136,0.5) solid;
 }
 
+/* Footer with the rights */
 footer {
   text-align: center;
   padding-bottom: 40px;
