@@ -18,3 +18,7 @@
        url('../fonts/work-sans-v3-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/work-sans-v3-latin-regular.svg#WorkSans') format('svg'); /* Legacy iOS */
 }
+
+body {
+  font-family: 'Work Sans';
+}
