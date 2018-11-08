@@ -76,8 +76,8 @@ main {
 }
 
 .image {
-  width: 30%;
-  height: 50vh;
+  width: 303.03px;
+  height: 462px;
   position: absolute;
 }
 
@@ -111,11 +111,22 @@ main {
   font-size: 16pt;
   position: relative;
   top: 60px;
-  left: 30px;
+  left: 50px;
 }
 
 .onimage:hover {
   color: yellow;
+}
+
+.link-container {
+  height: 80px;
+}
+.open {
+  width: 30px;
+  background-color: white;
+  position: relative;
+  top: 310px;
+  left: 50px;
 }
 
 footer {
