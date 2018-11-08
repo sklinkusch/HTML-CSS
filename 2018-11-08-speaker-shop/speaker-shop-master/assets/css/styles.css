@@ -140,11 +140,13 @@ main {
   height: 80px;
 }
 .open {
-  width: 30px;
+  width: 40px;
   background-color: white;
   position: relative;
   top: 310px;
   left: 50px;
+  border-radius: 30px;
+  border: 6px #888 solid;
 }
 
 footer {
