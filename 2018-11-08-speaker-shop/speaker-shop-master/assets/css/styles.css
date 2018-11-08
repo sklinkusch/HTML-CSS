@@ -71,6 +71,22 @@ main {
   margin-bottom: 30px;
 }
 
+.watch {
+  margin-top: 50px;
+  text-align: right;
+}
+.video {
+  background-color: black;
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.play {
+  height: 1.0em;
+}
+
 .images {
   position: relative;
 }
