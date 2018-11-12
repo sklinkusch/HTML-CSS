@@ -613,3 +613,11 @@ position: absolute;
 top: 360px;
 left: 392.5px;
 }
+.redblack {
+  height: 40px;
+  width: 320px;
+  background-image: linear-gradient(to right, #c63678, black);
+  position: absolute;
+  left: 160px;
+  top: 400px;
+}
