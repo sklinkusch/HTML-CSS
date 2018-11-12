@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+.container {
+  width: 100%;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+.row:last-of-type {
+  margin-bottom: 0;
+}
+.row::before, .row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+[class*='col-'] {
+  float: left;
+  min-height: 1px;
+  width: 16.66%;
+  padding: 12px;
+  background-color: hotpink;
+  border: 1px solid antiquewhite;
+}
+
+.col-1 {width: 12.50%;}
+.col-2 {width: 25%;}
+.col-3 {width: 37.50%;}
+.col-4 {width: 50%;}
+.col-5 {width: 62.50%;}
+.col-6 {width: 75%;}
+.col-7 {width: 87.50%;}
+.col-8 {width: 100%;}
+
+.outline {
+  border: 2px solid antiquewhite;
+}
