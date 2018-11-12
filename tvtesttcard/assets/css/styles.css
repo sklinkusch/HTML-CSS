@@ -178,3 +178,420 @@
   left: 544px;
   top: 280px;
 }
+
+.row-4 {
+  background-color: white;
+}
+
+.weiss {
+  width: 48px;
+  height: 40px;
+  background-color: white;
+  position: absolute;
+  top: 320px;
+  left: 160px;
+}
+
+.grau-1 {
+  width: 12px;
+  height: 40px;
+  background-color: #888;
+  position: absolute;
+  left: 208px;
+  top: 320px;
+}
+
+[class*='whitespace-A'] {
+  width: 9px;
+  height: 40px;
+  background-color: white;
+}
+.whitespace-A1 {
+  position: absolute;
+  left: 220px;
+  top: 320px;
+}
+
+[class*='breit-'] {
+  width: 9px;
+  height: 40px;
+  background: black;
+}
+
+.breit-1 {
+  position: absolute;
+  left: 229px;
+  top: 320px;
+}
+
+.whitespace-A2 {
+  position: absolute;
+  left: 238px;
+  top: 320px;
+}
+
+.breit-2 {
+  position: absolute;
+  left: 247px;
+  top: 320px;
+}
+
+.whitespace-A3 {
+  position: absolute;
+  left: 256px;
+  top: 320px;
+}
+
+.breit-3 {
+  position: absolute;
+  left: 265px;
+  top: 320px;
+}
+
+.whitespace-A4 {
+  position: absolute;
+  left: 274px;
+  top: 320px;
+}
+
+.breit-4 {
+  position: absolute;
+  left: 283px;
+  top: 320px;
+}
+
+.whitespace-A5 {
+  position: absolute;
+  left: 292px;
+  top: 320px;
+}
+
+.breit-5 {
+  position: absolute;
+  left: 301px;
+  top: 320px;
+}
+
+.grau-2 {
+  width: 12px;
+  height: 40px;
+  background-color: #888;
+  position: absolute;
+  left: 310px;
+  top: 320px;
+}
+
+[class*='whitespace-B'] {
+  background-color: white;
+  width: 3.3px;
+  height: 40px;
+}
+
+[class*='mittel-'] {
+  background-color: black;
+  width: 3.3px;
+  height: 40px;
+}
+
+.whitespace-B01 {
+  position: absolute;
+  left: 322px;
+  top: 320px;
+}
+.mittel-01 {
+  position: absolute;
+  left: 325.3px;
+  top: 320px;
+}
+.whitespace-B02 {
+  position: absolute;
+  left: 328.6px;
+  top: 320px;
+}
+.mittel-02 {
+  position: absolute;
+  left: 331.9px;
+  top: 320px;
+}
+.whitespace-B03 {
+  position: absolute;
+  left: 335.2px;
+  top: 320px;
+}
+.mittel-03 {
+  position: absolute;
+  left: 338.5px;
+  top: 320px;
+}
+.whitespace-B04 {
+  position: absolute;
+  left: 341.8px;
+  top: 320px;
+}
+.mittel-04 {
+  position: absolute;
+  left: 345.1px;
+  top: 320px;
+}
+.whitespace-B05 {
+  position: absolute;
+  left: 348.4px;
+  top: 320px;
+}
+.mittel-05 {
+  position: absolute;
+  left: 351.7px;
+  top: 320px;
+}
+.whitespace-B06 {
+  position: absolute;
+  left: 355px;
+  top: 320px;
+}
+.mittel-06 {
+  position: absolute;
+  left: 358.3px;
+  top: 320px;
+}
+.whitespace-B07 {
+  position: absolute;
+  left: 361.6px;
+  top: 320px;
+}
+.mittel-07 {
+  position: absolute;
+  left: 364.9px;
+  top: 320px;
+}
+.whitespace-B08 {
+  position: absolute;
+  left: 368.2px;
+  top: 320px;
+}
+.mittel-08 {
+  position: absolute;
+  left: 371.5px;
+  top: 320px;
+}
+.whitespace-B09 {
+  position: absolute;
+  left: 374.8px;
+  top: 320px;
+}
+.mittel-09 {
+  position: absolute;
+  left: 378.1px;
+  top: 320px;
+}
+.whitespace-B10 {
+  position: absolute;
+  left: 381.4px;
+  top: 320px;
+}
+.mittel-10 {
+  position: absolute;
+  left: 384.7px;
+  top: 320px;
+}
+.grau-3 {
+  width: 12px;
+  height: 40px;
+  background-color: #888;
+  position: absolute;
+  left: 388px;
+  top: 320px;
+  border-right: 1px solid white;
+}
+.grau-4 {
+  width: 12px;
+  height: 40px;
+  background-color: #888;
+  position: absolute;
+  left: 400px;
+  top: 320px;
+  border-left: 1px solid white;
+}
+[class*='whitespace-C'] {
+  background-color: white;
+  height: 40px;
+  width: 2px;
+}
+[class*='schmal-'] {
+  background-color: black;
+  height: 40px;
+  width: 2px;
+}
+.whitespace-C01 {
+  position: absolute;
+  left: 412px;
+  top: 320px;
+}
+.schmal-01 {
+  position: absolute;
+  left: 414px;
+  top: 320px;
+}
+.whitespace-C02 {
+  position: absolute;
+  left: 416px;
+  top: 320px;
+}
+.schmal-02 {
+  position: absolute;
+  left: 418px;
+  top: 320px;
+}
+.whitespace-C03 {
+  position: absolute;
+  left: 420px;
+  top: 320px;
+}
+.schmal-03 {
+  position: absolute;
+  left: 422px;
+  top: 320px;
+}
+.whitespace-C04 {
+  position: absolute;
+  left: 424px;
+  top: 320px;
+}
+.schmal-04 {
+  position: absolute;
+  left: 426px;
+  top: 320px;
+}
+.whitespace-C05 {
+  position: absolute;
+  left: 428px;
+  top: 320px;
+}
+.schmal-05 {
+  position: absolute;
+  left: 430px;
+  top: 320px;
+}
+.whitespace-C06 {
+  position: absolute;
+  left: 432px;
+  top: 320px;
+}
+.schmal-06 {
+  position: absolute;
+  left: 434px;
+  top: 320px;
+}
+.whitespace-C07 {
+  position: absolute;
+  left: 436px;
+  top: 320px;
+}
+.schmal-07 {
+  position: absolute;
+  left: 438px;
+  top: 320px;
+}
+.whitespace-C08 {
+  position: absolute;
+  left: 440px;
+  top: 320px;
+}
+.schmal-08 {
+  position: absolute;
+  left: 442px;
+  top: 320px;
+}
+.whitespace-C09 {
+  position: absolute;
+  left: 444px;
+  top: 320px;
+}
+.schmal-09 {
+  position: absolute;
+  left: 446px;
+  top: 320px;
+}
+.whitespace-C10 {
+  position: absolute;
+  left: 448px;
+  top: 320px;
+}
+.schmal-10 {
+  position: absolute;
+  left: 450px;
+  top: 320px;
+}
+.whitespace-C11 {
+  position: absolute;
+  left: 452px;
+  top: 320px;
+}
+.schmal-11 {
+  position: absolute;
+  left: 454px;
+  top: 320px;
+}
+.whitespace-C12 {
+  position: absolute;
+  left: 456px;
+  top: 320px;
+}
+.schmal-12 {
+  position: absolute;
+  left: 458px;
+  top: 320px;
+}
+.whitespace-C13 {
+  position: absolute;
+  left: 460px;
+  top: 320px;
+}
+.schmal-13 {
+  position: absolute;
+  left: 462px;
+  top: 320px;
+}
+.whitespace-C14 {
+  position: absolute;
+  left: 464px;
+  top: 320px;
+}
+.schmal-14 {
+  position: absolute;
+  left: 466px;
+  top: 320px;
+}
+.whitespace-C15 {
+  position: absolute;
+  left: 468px;
+  top: 320px;
+}
+.schmal-15 {
+  position: absolute;
+  left: 470px;
+  top: 320px;
+}
+.grau-5 {
+  width: 12px;
+  height: 40px;
+  background-color: #888;
+  position: absolute;
+  left: 472px;
+  top: 320px;
+}
+.orange {
+  height: 40px;
+  width: 132px;
+  background-color: orange;
+  position: absolute;
+  top: 320px;
+  left: 484px;
+}
+.grau-6 {
+  height: 40px;
+  width: 24px;
+  background-color: #888;
+  position: absolute;
+  left: 616px;
+  top: 320px;
+}
