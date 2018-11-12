@@ -64,6 +64,9 @@ body {
   background-color: red;
 }
 .col-8 {width: 100%;}
+.col-8a {
+  background-color: black;
+}
 
 .outline {
   border: 2px solid antiquewhite;
