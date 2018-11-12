@@ -637,3 +637,12 @@ left: 392.5px;
   left: 480px;
   top: 400px;
 }
+.circle {
+  width: 540px;
+  height: 540px;
+  border-radius: 50%;
+  border: 2px solid white;
+  position: absolute;
+  left: 130px;
+  top: 10px;
+}
