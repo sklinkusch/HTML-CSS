@@ -616,7 +616,7 @@ left: 392.5px;
 .redblack {
   height: 40px;
   width: 320px;
-  background-image: linear-gradient(to right, #c63678, black);
+  background-image: linear-gradient(to right, hotpink, black);
   position: absolute;
   left: 160px;
   top: 400px;
@@ -628,4 +628,12 @@ left: 392.5px;
   position: absolute;
   left: 160px;
   top: 440px;
+}
+.bottomright {
+  height: 80px;
+  width: 160px;
+  background: #888;
+  position: absolute;
+  left: 480px;
+  top: 400px;
 }
