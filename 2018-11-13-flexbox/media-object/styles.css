@@ -9,6 +9,7 @@
 .media-object {
   margin-left: 1em;
   order: 1;
+  width: 150px;
 }
 .media-body {
   flex: 1;
@@ -16,6 +17,6 @@
 .media-heading {
   margin: 0 0 .5em;
 }
-img {
-  width: 150px;
+.nested {
+  transform: scaleX(-1);
 }
