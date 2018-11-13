@@ -8,6 +8,7 @@
 }
 .media-object {
   margin-right: 1em;
+  order: 1;
 }
 .media-body {
   flex: 1;
