@@ -15,7 +15,6 @@ body {
   flex: 1;
 }
 #main > nav, #main > aside {
-  flex: 0 0 20vw;
   background: beige;
 }
 #main > nav {
@@ -27,4 +26,9 @@ header, footer, article, nav, aside {
 header, footer {
   background: yellowgreen;
   height: 20vh;
+}
+@media screen and (max-width: 575px) {
+  #main {
+    flex-direction: column;
+  }
 }
