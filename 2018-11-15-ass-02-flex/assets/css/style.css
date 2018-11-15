@@ -45,3 +45,22 @@ footer {
   display: flex;
   justify-content: space-between;
 }
+main ul {
+  list-style-position: inside;
+}
+dl {
+  margin-bottom: 10px;
+}
+dt {
+  text-decoration: underline;
+  font-style: italic;
+}
+dt::after {
+  content: ":"
+}
+dd {
+  margin-left: 20px;
+}
+q {
+  font-style: italic;
+}
