@@ -64,3 +64,10 @@ dd {
 q {
   font-style: italic;
 }
+.flexcontainer {
+  display: flex;
+  justify-content: space-between;
+}
+.imagecontainer img {
+  width: 200px;
+}
