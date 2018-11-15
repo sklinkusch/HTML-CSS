@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: aquamarine;
+}
+header, main, footer {
+  width: 95%;
+  margin: 10px auto;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  flex: 1 0 200px;
+}
+nav {
+  align-self: center;
+}
+nav li {
+  display: inline-block;
+  list-style: none;
+  background-color: grey;
+  border-radius: 5px;
+}
+nav a {
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+}
+main {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+h2 {
+  margin: 20px 0;
+}
+p {
+  margin-bottom: 10px;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+}
